@@ -1,7 +1,10 @@
 # HCWProgressHUD
 解耦合的HUD，使用方法和MBProgressHUD类似。
 
-HCWProgressHUD *hud = [HCWProgressHUD showHUDAddedTo:self.view animated:YES tapContentBlock:^(HCWProgressHUDMode mode) {
+## 使用方法
+
+
+    HCWProgressHUD *hud = [HCWProgressHUD showHUDAddedTo:self.view animated:YES tapContentBlock:^(HCWProgressHUDMode mode) {
         
     } clickButtonBlock:^(HCWProgressHUDMode mode) {
         
