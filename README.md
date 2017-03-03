@@ -1,6 +1,8 @@
 # HCWProgressHUD
 解耦合的HUD，使用方法和MBProgressHUD类似。
 
+![image](https://github.com/huangchangweng/HCWProgressHUD/blob/master/HCWProgressHUD.gif)
+
 ## 使用方法
 
 
